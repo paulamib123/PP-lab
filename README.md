@@ -1,2 +1,2 @@
 # PP-lab
-PP Lab programs for Sem-3
+Programming Paradigms Lab programs for Sem-3
